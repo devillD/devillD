@@ -1,5 +1,4 @@
 <h1 align="center">Hey There, I'm D</h1>
-<h3 align="center">I love coading</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devillD&label=Profile%20views&color=0e75b6&style=flat" alt="devillD" /> </p><br>
 
