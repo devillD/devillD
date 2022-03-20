@@ -4,9 +4,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devillD&show_icons=true&locale=en" alt="devillD" /></p>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devillD&" alt="devillD" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devillD&" alt="devillD" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devillD&show_icons=true&locale=en&layout=compact" alt="devillD" /></p>
 
-
-[![Support Me](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/devillD)
+<p>[![Support Me](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/devillD)</p>
